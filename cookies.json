@@ -1,0 +1,67 @@
+[
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1729677749,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__stripe_mid",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "ca26b445-fef6-414f-893e-e010902bbf0d5ee9a7"
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1729677730.545251,
+        "hostOnly": false,
+        "httpOnly": true,
+        "name": "token",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "ESBfypRzxeYFkyKFmHfrzBnRrWfAhRhxJhniPCGWJoBqtMehTyYlNUhxBsvqelPnbHMPADDoBdnNpHZytxKUcQTksIGUdvuXbKLFDYTDZCjHqmrZWWSTMDmPBdqCNMwW"
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1698487329,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "aws-waf-token",
+        "path": "/",
+        "sameSite": "lax",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "f58107d4-d7ef-4a16-88b3-73c510b5dc45:BQoAdwRFN+gEAAAA:4HQQoJELb3rkan9fbiaS+IqJkxeMXvFDPnHRAjSnROiwjSD+uKurnX6WhWXmzajx49YWfRRtCMdQSvOn4XUHMPthgLosb2AUKns6TVSeIoMzdLvlTL0dx7DIslInYO9GNNMGHvKOcCPrms7OnCCVOf5D1Wr0CjQUimitGgEZ4xZTFMHmKPqSqMAWnAI/IKC6AbBJIlFbIi93aWVSOUr8r8Iiep59/j2ssKl7e7IXBZuyPMrvrVHZeuxeXtbIkJpimPw1rlA0a6cfOWx+l1A="
+    },
+    {
+        "domain": ".huggingface.co",
+        "expirationDate": 1698143549,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "__stripe_sid",
+        "path": "/",
+        "sameSite": "strict",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "0124d6d2-a1ac-4b8a-8e86-48b2b1f1df7faabaa6"
+    },
+    {
+        "domain": "huggingface.co",
+        "expirationDate": 1729764151.225543,
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "hf-chat",
+        "path": "/",
+        "sameSite": "no_restriction",
+        "secure": true,
+        "session": false,
+        "storeId": null,
+        "value": "913eafc0-3ccd-4553-b73e-0ba8aafd4f4c"
+    }
+]
